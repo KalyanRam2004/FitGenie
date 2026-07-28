@@ -57,6 +57,3 @@ python app.py
 - Voice assistant
 - Multilingual support
 - Advanced AI recommendations
-- Choohitha
-- Haritha
-- Harshitha
